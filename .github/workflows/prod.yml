@@ -4,7 +4,7 @@ on:
   push:
     branches: [main]
     paths:
-      - "aseets/**"
+      - "assets/**"
 jobs:
   setup:
     runs-on: ubuntu-latest
